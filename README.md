@@ -120,8 +120,6 @@
 
 # 
 
-# ```text
-
 # Internet
 
 # &#x20;   ↓
@@ -145,8 +143,6 @@
 # Public and Private Subnets
 
 # Security Group Tiering
-
-# ```
 
 # 
 
@@ -182,11 +178,7 @@
 
 # 
 
-# \## Author
-
-# 
-
-# Tevfik Koyun
+# \## Author Tevfik Koyun
 
 # 
 
